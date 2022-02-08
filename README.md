@@ -1,11 +1,11 @@
- Catégorie(s): app. scientifique
+# Computer vision project based on swainballard Color Indexing book
 
-Contexte
+## Contexte:
 Dans de nombreux domaines d’application en imagerie, les quantités d’images deviennent de plus en plus importantes, formant de véritables masses de données.
 Les systèmes de recherche d'images par le contenu (Content Based Image Retrieval ou CBIR) nécessitent l’utilisation de descripteurs de formes discriminants
 et rapides à calculer. L’idée est de présenter une image au système (par exemple une voiture) et de faire ressortir les images les plus proches dans la base.
 
-Objectifs :
+## Objectifs :
 Nous proposons, dans ce projet d’étudier et d’adapter, une approche simple et efficace de reconnaissance entre images fondée sur une représentation de l’histogramme 
 couleur des images RGB. Les étapes à suivre sont les suivantes :
 
