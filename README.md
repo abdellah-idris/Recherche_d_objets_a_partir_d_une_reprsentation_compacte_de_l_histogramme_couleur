@@ -1,5 +1,8 @@
 # Computer vision project based on swainballard Color Indexing book
 
+## INFO:
+I couldn't find my first code using loops, which was very slow when calculating and obtaining the resulting images.
+
 ## Contexte:
 Dans de nombreux domaines d’application en imagerie, les quantités d’images deviennent de plus en plus importantes, formant de véritables masses de données.
 Les systèmes de recherche d'images par le contenu (Content Based Image Retrieval ou CBIR) nécessitent l’utilisation de descripteurs de formes discriminants
